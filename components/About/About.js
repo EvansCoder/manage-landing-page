@@ -14,7 +14,7 @@ function About() {
           product teams.
         </p>
       </div>
-      <div className="">
+      <div className="mt-16">
         <div className="flex gap-5">
           <div className="bg-brightRed rounded-full py-4 px-6 h-5 w-5 flex items-center justify-center text-white">
             01
