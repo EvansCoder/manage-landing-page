@@ -12,7 +12,7 @@ export default function Home() {
         <meta name="description" content="Created by github.com/evanscoder" />
         <link rel="icon" href="/images/favicon.ico" />
       </Head>
-      <div className=" max-w-full h-screen  mx-10 lg:mx-32 z-10">
+      <div className=" max-w-full h-screen font-inter  mx-10 lg:mx-32 z-10">
         <Header />
         <HeroSection />
         <About/>
